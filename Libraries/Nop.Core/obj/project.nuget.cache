@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "dgSpecHash": "ya7rR/AtKyt1AO0BeOgho3/7PxCWBytLPDrsDhE8I2K7JBx6czi3qiuvtF6Zpg3P+GdQJIaKuIa90U4IKiYMzg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Core\\Nop.Core.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Microsoft.Extensions.Caching.StackExchangeRedis"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Azure.Extensions.AspNetCore.DataProtection.Keys"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Microsoft.Extensions.Caching.SqlServer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Autofac.Extensions.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "AutoMapper.Extensions.Microsoft.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "System.Linq.Async"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.NewtonsoftJson"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Nito.AsyncEx.Coordination"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Azure.Extensions.AspNetCore.DataProtection.Blobs"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "MiniProfiler.AspNetCore.Mvc"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Microsoft.Azure.Services.AppAuthentication"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Humanizer"
+    }
+  ]
+}

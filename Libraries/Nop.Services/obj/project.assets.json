@@ -1,0 +1,321 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Azure.Storage.Blobs >= 12.14.1",
+      "ClosedXML >= 0.97.0",
+      "HarfBuzzSharp.NativeAssets.Linux >= 2.8.2.3",
+      "MailKit >= 3.4.3",
+      "MaxMind.GeoIP2 >= 5.1.0",
+      "QuestPDF >= 2022.11.0",
+      "SkiaSharp >= 2.88.3",
+      "SkiaSharp.NativeAssets.Linux.NoDependencies >= 2.88.3",
+      "Svg.Skia >= 0.5.18",
+      "System.Linq.Dynamic.Core >= 1.2.23",
+      "System.ServiceModel.Http >= 4.10.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\vigne\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "4.5.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Services\\Nop.Services.csproj",
+      "projectName": "Nop.Services",
+      "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Services\\Nop.Services.csproj",
+      "packagesPath": "C:\\Users\\vigne\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\vigne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+              "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Core\\Nop.Core.csproj"
+            },
+            "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Data\\Nop.Data.csproj": {
+              "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Data\\Nop.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Azure.Storage.Blobs": {
+            "target": "Package",
+            "version": "[12.14.1, )"
+          },
+          "ClosedXML": {
+            "target": "Package",
+            "version": "[0.97.0, )"
+          },
+          "HarfBuzzSharp.NativeAssets.Linux": {
+            "target": "Package",
+            "version": "[2.8.2.3, )"
+          },
+          "MailKit": {
+            "target": "Package",
+            "version": "[3.4.3, )"
+          },
+          "MaxMind.GeoIP2": {
+            "target": "Package",
+            "version": "[5.1.0, )"
+          },
+          "QuestPDF": {
+            "target": "Package",
+            "version": "[2022.11.0, )"
+          },
+          "SkiaSharp": {
+            "target": "Package",
+            "version": "[2.88.3, )"
+          },
+          "SkiaSharp.NativeAssets.Linux.NoDependencies": {
+            "target": "Package",
+            "version": "[2.88.3, )"
+          },
+          "Svg.Skia": {
+            "target": "Package",
+            "version": "[0.5.18, )"
+          },
+          "System.Linq.Dynamic.Core": {
+            "target": "Package",
+            "version": "[1.2.23, )"
+          },
+          "System.ServiceModel.Http": {
+            "target": "Package",
+            "version": "[4.10.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Microsoft.Extensions.Caching.StackExchangeRedis"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Npgsql"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "System.ServiceModel.Http"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "ClosedXML"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "System.Net.NameResolution"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "MailKit"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Microsoft.Data.SqlClient"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "QuestPDF"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "linq2db"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "MaxMind.GeoIP2"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "System.Configuration.ConfigurationManager"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "SkiaSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "FluentMigrator"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "SkiaSharp.NativeAssets.Linux.NoDependencies"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "FluentMigrator.Runner"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "System.Linq.Dynamic.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "MySqlConnector"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "HarfBuzzSharp.NativeAssets.Linux"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Svg.Skia"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Azure.Extensions.AspNetCore.DataProtection.Keys"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Microsoft.Extensions.Caching.SqlServer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Autofac.Extensions.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "AutoMapper.Extensions.Microsoft.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "System.Linq.Async"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.NewtonsoftJson"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Nito.AsyncEx.Coordination"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Azure.Extensions.AspNetCore.DataProtection.Blobs"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "MiniProfiler.AspNetCore.Mvc"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Microsoft.Azure.Services.AppAuthentication"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json.",
+      "libraryId": "Humanizer"
+    }
+  ]
+}
