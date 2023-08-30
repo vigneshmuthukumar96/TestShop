@@ -1,28 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\Nop.Plugin.Payments.CheckMoneyOrder.csproj": {}
+    "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Plugins/Nop.Plugin.Payments.CheckMoneyOrder/Nop.Plugin.Payments.CheckMoneyOrder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+    "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Core/Nop.Core.csproj": {
       "version": "4.5.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Core\\Nop.Core.csproj",
+        "projectUniqueName": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Core/Nop.Core.csproj",
         "projectName": "Nop.Core",
-        "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Core\\Nop.Core.csproj",
-        "packagesPath": "C:\\Users\\vigne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Core\\obj\\",
+        "projectPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Core/Nop.Core.csproj",
+        "packagesPath": "/Users/vignesh/.nuget/packages/",
+        "outputPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vigne\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/vignesh/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -117,36 +115,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Data\\Nop.Data.csproj": {
+    "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Data/Nop.Data.csproj": {
       "version": "4.5.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Data\\Nop.Data.csproj",
+        "projectUniqueName": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Data/Nop.Data.csproj",
         "projectName": "Nop.Data",
-        "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Data\\Nop.Data.csproj",
-        "packagesPath": "C:\\Users\\vigne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Data\\obj\\",
+        "projectPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Data/Nop.Data.csproj",
+        "packagesPath": "/Users/vignesh/.nuget/packages/",
+        "outputPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vigne\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/vignesh/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-                "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Core\\Nop.Core.csproj"
+              "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Core/Nop.Core.csproj": {
+                "projectPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Core/Nop.Core.csproj"
               }
             }
           }
@@ -210,39 +206,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Services\\Nop.Services.csproj": {
+    "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Services/Nop.Services.csproj": {
       "version": "4.5.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Services\\Nop.Services.csproj",
+        "projectUniqueName": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Services/Nop.Services.csproj",
         "projectName": "Nop.Services",
-        "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Services\\Nop.Services.csproj",
-        "packagesPath": "C:\\Users\\vigne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Services\\obj\\",
+        "projectPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Services/Nop.Services.csproj",
+        "packagesPath": "/Users/vignesh/.nuget/packages/",
+        "outputPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Services/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vigne\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/vignesh/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-                "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Core\\Nop.Core.csproj"
+              "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Core/Nop.Core.csproj": {
+                "projectPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Core/Nop.Core.csproj"
               },
-              "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Data\\Nop.Data.csproj": {
-                "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Data\\Nop.Data.csproj"
+              "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Data/Nop.Data.csproj": {
+                "projectPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Data/Nop.Data.csproj"
               }
             }
           }
@@ -318,36 +312,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\Nop.Plugin.Payments.CheckMoneyOrder.csproj": {
+    "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Plugins/Nop.Plugin.Payments.CheckMoneyOrder/Nop.Plugin.Payments.CheckMoneyOrder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\Nop.Plugin.Payments.CheckMoneyOrder.csproj",
+        "projectUniqueName": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Plugins/Nop.Plugin.Payments.CheckMoneyOrder/Nop.Plugin.Payments.CheckMoneyOrder.csproj",
         "projectName": "Nop.Plugin.Payments.CheckMoneyOrder",
-        "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\Nop.Plugin.Payments.CheckMoneyOrder.csproj",
-        "packagesPath": "C:\\Users\\vigne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Plugins\\Nop.Plugin.Payments.CheckMoneyOrder\\obj\\",
+        "projectPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Plugins/Nop.Plugin.Payments.CheckMoneyOrder/Nop.Plugin.Payments.CheckMoneyOrder.csproj",
+        "packagesPath": "/Users/vignesh/.nuget/packages/",
+        "outputPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Plugins/Nop.Plugin.Payments.CheckMoneyOrder/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vigne\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/vignesh/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Presentation\\Nop.Web\\Nop.Web.csproj": {
-                "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Presentation\\Nop.Web\\Nop.Web.csproj"
+              "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Presentation/Nop.Web/Nop.Web.csproj": {
+                "projectPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Presentation/Nop.Web/Nop.Web.csproj"
               }
             }
           }
@@ -377,42 +369,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
+    "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Presentation/Nop.Web.Framework/Nop.Web.Framework.csproj": {
       "version": "4.5.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
+        "projectUniqueName": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Presentation/Nop.Web.Framework/Nop.Web.Framework.csproj",
         "projectName": "Nop.Web.Framework",
-        "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj",
-        "packagesPath": "C:\\Users\\vigne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Presentation\\Nop.Web.Framework\\obj\\",
+        "projectPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Presentation/Nop.Web.Framework/Nop.Web.Framework.csproj",
+        "packagesPath": "/Users/vignesh/.nuget/packages/",
+        "outputPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Presentation/Nop.Web.Framework/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vigne\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/vignesh/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-                "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Core\\Nop.Core.csproj"
+              "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Core/Nop.Core.csproj": {
+                "projectPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Core/Nop.Core.csproj"
               },
-              "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Data\\Nop.Data.csproj": {
-                "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Data\\Nop.Data.csproj"
+              "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Data/Nop.Data.csproj": {
+                "projectPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Data/Nop.Data.csproj"
               },
-              "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Services\\Nop.Services.csproj": {
-                "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Services\\Nop.Services.csproj"
+              "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Services/Nop.Services.csproj": {
+                "projectPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Services/Nop.Services.csproj"
               }
             }
           }
@@ -460,45 +450,44 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Presentation\\Nop.Web\\Nop.Web.csproj": {
+    "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Presentation/Nop.Web/Nop.Web.csproj": {
       "version": "4.5.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Presentation\\Nop.Web\\Nop.Web.csproj",
+        "projectUniqueName": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Presentation/Nop.Web/Nop.Web.csproj",
         "projectName": "Nop.Web",
-        "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Presentation\\Nop.Web\\Nop.Web.csproj",
-        "packagesPath": "C:\\Users\\vigne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Presentation\\Nop.Web\\obj\\",
+        "projectPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Presentation/Nop.Web/Nop.Web.csproj",
+        "packagesPath": "/Users/vignesh/.nuget/packages/",
+        "outputPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Presentation/Nop.Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vigne\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/vignesh/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://pkgs.dev.azure.com/niranjenniran/artifactpublish/_packaging/publishartifact/nuget/v3/index.json": {}
+          "/usr/local/share/dotnet/sdk/7.0.307/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-                "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Core\\Nop.Core.csproj"
+              "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Core/Nop.Core.csproj": {
+                "projectPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Core/Nop.Core.csproj"
               },
-              "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Data\\Nop.Data.csproj": {
-                "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Data\\Nop.Data.csproj"
+              "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Data/Nop.Data.csproj": {
+                "projectPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Data/Nop.Data.csproj"
               },
-              "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Services\\Nop.Services.csproj": {
-                "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Libraries\\Nop.Services\\Nop.Services.csproj"
+              "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Services/Nop.Services.csproj": {
+                "projectPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Libraries/Nop.Services/Nop.Services.csproj"
               },
-              "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj": {
-                "projectPath": "C:\\Users\\vigne\\Downloads\\nopCommerce_4.60.4_Source\\src\\Presentation\\Nop.Web.Framework\\Nop.Web.Framework.csproj"
+              "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Presentation/Nop.Web.Framework/Nop.Web.Framework.csproj": {
+                "projectPath": "/Users/vignesh/Personal/Website/nopCommerce_4.60.4_Source/src/Presentation/Nop.Web.Framework/Nop.Web.Framework.csproj"
               }
             }
           }
@@ -531,7 +520,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
         }
       }
     }
